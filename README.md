@@ -111,9 +111,3 @@ Deploy as a web service or desktop application
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Author
-
-## Manish Kumar Singh
-GitHub: https://github.com/Manishkumarsingh41
-
-Portfolio: https://iammanishsinghrajput.netlify.app/
