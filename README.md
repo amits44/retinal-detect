@@ -42,7 +42,7 @@ The core purpose of LuminaPath is to **automate retinal disease detection** and 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Manishkumarsingh41/LuminaPath-Ai-Retinal-Disease-Detection.git
+git clone [https://github.com/amits44/retinal-detect.git]
 cd LuminaPath
 
 
